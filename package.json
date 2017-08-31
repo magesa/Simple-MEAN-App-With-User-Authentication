@@ -1,0 +1,46 @@
+{
+  "name": "mean-app_with_login",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application User Login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magesa"
+  },
+  "keywords": [
+    "MEAN-Stack",
+    "Passport-Strategy",
+    "User-Login"
+  ],
+  "author": "Marcel Masaga",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "bunyan": "^1.8.1",
+    "compression": "^1.6.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.7.1",
+    "csvtojson": "^1.0.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-validator": "^4.1.0",
+    "install": "^0.10.1",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.15.0",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.5.7",
+    "mongoose-auto-increment": "^5.0.1",
+    "multer": "^1.2.0",
+    "npm": "^5.3.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.75.0",
+    "winston": "^2.2.0"
+  }
+}
